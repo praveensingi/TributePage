@@ -1,0 +1,28 @@
+#title {
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(180deg,#1bf1f5, #faf7f7, #1bf1f5);
+}
+
+#image {
+    width: 100%;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+article{
+    text-align: start;
+    line-height: 20px;
+    margin: 20px 40px 20px 40px;
+}
+
+footer{
+    text-align: center;
+}
